@@ -10,6 +10,19 @@ A compact desktop idle hunting game featuring a hunter, a dog, and a growing col
 | :--- | :--- | :--- |
 | In development · Playable prototype | Godot · Windows | Public project showcase |
 
+## Screenshots
+
+Screenshots from development builds. Interface and features may change before release.
+
+<img src="screenshot-01.png" alt="Hunter and equipment" width="960">
+
+*Hunter and equipment*
+
+<img src="screenshot-02.png" alt="Hunting dog companion" width="960">
+
+*Hunting dog companion*
+
+
 ## The experience
 
 - Automatic hunts in a compact desktop window.
